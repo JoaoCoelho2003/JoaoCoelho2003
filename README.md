@@ -1,7 +1,7 @@
 Hi 👋 My name is João Coellho
 =============================
 
-I am a student at University of Minho in Braga, PT, Currently in my 3rd year of the bachelor's degree and on my way to my master's. I have a passion for coding and love everything about it, but my main attraction resides on Artificial Intelligence and Cyber Security, areas that I plan on studying to a greater detail in the upcoming years. My main focus is always improving my own capacities and reach higher heights and creating new goals, each one harsher than the last.
+I'm passionate student currently pursuing my bachelor's degree at the University of Minho in Braga, Portugal. I'm in my third year of studies and gearing up for my master's degree. My primary focus is on continual self-improvement and setting ambitious goals. With each milestone I achieve, I strive to set the bar higher, constantly challenging myself to reach new heights. In the coming years, I aim to delve deeper into the intricacies of AI and Cybersecurity, honing my skills and contributing meaningfully to these dynamic fields.
 
 *   🌍  I'm based in Braga
 *   ✉️  You can contact me at [jhcoelho03@gmail.com](mailto:jhcoelho03@gmail.com)
