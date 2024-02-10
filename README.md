@@ -1,4 +1,4 @@
-Hi 👋 My name is João Coellho
+Hi 👋 My name is João Coelho
 =============================
 
 I'm passionate student currently pursuing my bachelor's degree at the University of Minho in Braga, Portugal. I'm in my third year of studies and gearing up for my master's degree. My primary focus is on continual self-improvement and setting ambitious goals. With each milestone I achieve, I strive to set the bar higher, constantly challenging myself to reach new heights. In the coming years, I aim to delve deeper into the intricacies of AI and Cybersecurity, honing my skills and contributing meaningfully to these dynamic fields.
