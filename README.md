@@ -1,7 +1,9 @@
 Hi 👋 My name is João Coelho
 =============================
 
-I'm passionate student currently pursuing my bachelor's degree at the University of Minho in Braga, Portugal. I'm in my third year of studies and gearing up for my master's degree. My primary focus is on continual self-improvement and setting ambitious goals. With each milestone I achieve, I strive to set the bar higher, constantly challenging myself to reach new heights. In the coming years, I aim to delve deeper into the intricacies of AI and Cybersecurity, honing my skills and contributing meaningfully to these dynamic fields.
+I'm passionate student currently pursuing my bachelor's degree at the University of Minho in Braga, Portugal. I'm in my third year of studies and gearing up for my master's degree. My primary focus is on continual self-improvement and setting ambitious goals. With each milestone I achieve, I strive to set the bar higher, constantly challenging myself to reach new heights.
+Whether it's coding up a storm on my latest personal project or collaborating with classmates on an exciting academic endeavor, I'm always seeking out new challenges and opportunities to grow.
+
 
 *   🌍  I'm based in Braga
 *   ✉️  You can contact me at [jhcoelho03@gmail.com](mailto:jhcoelho03@gmail.com)
