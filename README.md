@@ -1,9 +1,9 @@
 Hi 👋 My name is João Coelho
 =============================
 
-I'm passionate student currently pursuing my bachelor's degree at the University of Minho in Braga, Portugal. I'm in my third year of studies and gearing up for my master's degree. My primary focus is on continual self-improvement and setting ambitious goals. With each milestone I achieve, I strive to set the bar higher, constantly challenging myself to reach new heights.
-Whether it's coding up a storm on my latest personal project or collaborating with classmates on an exciting academic endeavor, I'm always seeking out new challenges and opportunities to grow.
-
+I'm currently pursuing my bachelor's degree at the University of Minho in Braga, Portugal. I'm in my third year of studies and gearing up for my master's degree.
+Ever since I was introduced to coding, I've been hooked. I've never stopped challenging myself, diving into different programming paradigms and languages. 
+I'm proficient in all types, from functional languages like Haskell, to object-oriented languages like Java, and even imperative languages like C. I thrive on pushing my boundaries and continually seeking out new challenges in the world of programming."
 
 *   🌍  I'm based in Braga
 *   ✉️  You can contact me at [jhcoelho03@gmail.com](mailto:jhcoelho03@gmail.com)
