@@ -25,6 +25,6 @@ I'm proficient in all types, from functional languages like Haskell, to object-o
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCoelho2003&show_icons=true&theme=dark"/>
 </div>
 
-## My Commits
+## Contributions
 
 ![snake gif](https://github.com/JoaoCoelho2003/JoaoCoelho2003/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
