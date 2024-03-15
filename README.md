@@ -9,15 +9,14 @@ Hi 👋 My name is João Coelho
 
 🌟 **About Me**: Passionate about coding since introduction, continuously exploring new languages and paradigms. Enthusiastic about pushing boundaries and tackling challenging projects.
 
+**Contact me:**
 
-<div align="center">
-  <a href="mailto:jhcoelho03@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-coelho-3a465b266" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
+<a href="mailto:jhcoelho03@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+</a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-coelho-3a465b266" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+</a>
 
 ## Skills
 
