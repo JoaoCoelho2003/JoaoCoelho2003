@@ -15,7 +15,7 @@ I'm proficient in all types, from functional languages like Haskell, to object-o
 </div>
 
 ### Skills 
-[![My Skills](https://skillicons.dev/icons?i=c,java,py,js,cpp,css,haskell,html&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,py,js,rust,cpp,css,elixir,haskell,html&perline=5)](https://skillicons.dev)
 
 ### My Commits
 
