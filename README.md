@@ -20,13 +20,9 @@ I'm proficient in all types, from functional languages like Haskell, to object-o
 
 ## Stats
 
-<div style="display: flex; flex-direction: row;">
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=JoaoCoelho2003&show_icons=true&theme=dark"/>
-  </div>
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCoelho2003&show_icons=true&theme=dark"/>
-  </div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoCoelho2003&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCoelho2003&show_icons=true&theme=dark"/>
 </div>
 
 ## My Commits
