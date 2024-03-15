@@ -14,8 +14,7 @@ I'm proficient in all types, from functional languages like Haskell, to object-o
   </a>
 </div>
 
-### Skills
-</br>
+## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=c,java,py,js,rust,cpp,css,elixir,haskell,html&perline=5)](https://skillicons.dev)
 
@@ -23,8 +22,8 @@ I'm proficient in all types, from functional languages like Haskell, to object-o
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=JoaoCoelho2003&show_icons=true&theme=dark"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCoelho2003&show_icons=true&theme=dark"/>
 
-#
+<div style="clear: both;"></div>
 
-### My Commits
+## My Commits
 
 ![snake gif](https://github.com/JoaoCoelho2003/JoaoCoelho2003/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
