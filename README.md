@@ -19,10 +19,15 @@ I'm proficient in all types, from functional languages like Haskell, to object-o
 [![My Skills](https://skillicons.dev/icons?i=c,java,py,js,rust,cpp,css,elixir,haskell,html&perline=5)](https://skillicons.dev)
 
 ## Stats
-<img src="https://github-readme-stats.vercel.app/api?username=JoaoCoelho2003&show_icons=true&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCoelho2003&show_icons=true&theme=dark"/>
 
-<div style="clear: both;"></div>
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api?username=JoaoCoelho2003&show_icons=true&theme=dark"/>
+  </div>
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCoelho2003&show_icons=true&theme=dark"/>
+  </div>
+</div>
 
 ## My Commits
 
