@@ -14,9 +14,13 @@ I'm proficient in all types, from functional languages like Haskell, to object-o
   </a>
 </div>
 
-### Skills 
+## Skills 
 [![My Skills](https://skillicons.dev/icons?i=c,java,py,js,rust,cpp,css,elixir,haskell,html&perline=5)](https://skillicons.dev)
 
-### My Commits
+## My git history
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JoaoCoelho2003&theme=dark)](https://git.io/streak-stats)
+
+## My Commits
 
 ![snake gif](https://github.com/JoaoCoelho2003/JoaoCoelho2003/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
