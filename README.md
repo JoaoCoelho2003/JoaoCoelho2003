@@ -18,6 +18,8 @@ Hi 👋 My name is João Coelho
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </a>
 
+![Profile Views](https://komarev.com/ghpvc/?username=JoaoCoelho2003&color=green)
+
 ## 🏆 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=c,java,py,js,rust,cpp,css,elixir,haskell,html&perline=5)](https://skillicons.dev)
