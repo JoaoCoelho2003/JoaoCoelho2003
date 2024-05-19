@@ -18,7 +18,7 @@ Hi 👋 My name is João Coelho
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </a>
 
-<br><br>
+<br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JoaoCoelho2003&color=blue&style=for-the-badge&abbreviated=true)
 
