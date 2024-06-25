@@ -30,7 +30,6 @@ Hi 👋 My name is João Coelho
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=JoaoCoelho2003&show_icons=true&theme=dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCoelho2003&show_icons=true&theme=dark"/>
 </div>
 
 ## :snake: Contributions
