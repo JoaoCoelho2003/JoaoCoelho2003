@@ -20,8 +20,6 @@ Hi 👋 My name is João Coelho
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=JoaoCoelho2003&color=blue&style=for-the-badge&abbreviated=true)
-
 ## 🏆 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=c,java,py,js,rust,cpp,css,elixir,haskell,html&perline=5)](https://skillicons.dev)
