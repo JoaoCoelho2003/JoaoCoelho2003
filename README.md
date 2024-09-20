@@ -1,7 +1,7 @@
 Hi 👋 My name is João Coelho
 =============================
 
-* 🎓 **Education**: Third-year undergraduate student at the University of Minho, Braga, Portugal, pursuing a Bachelor's degree.
+* 🎓 **Education**: First-year master's student at the University of Minho, Braga, Portugal.
 
 * 💻 **Proficiency**: Skilled in various programming languages, including Python, JavaScript, C, Java, Haskell and more.
 
