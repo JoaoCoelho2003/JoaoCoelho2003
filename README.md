@@ -22,7 +22,7 @@ Hi 👋 My name is João Coelho
 
 ## 🏆 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,py,js,rust,cpp,css,elixir,haskell,html&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,elixir,html,css,tailwind,c,java,rust,cpp,mysql,mongodb,postgres,haskell,html&perline=8)](https://skillicons.dev)
 
 ## 📊 Stats
 
