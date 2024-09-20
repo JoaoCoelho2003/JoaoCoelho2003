@@ -5,7 +5,7 @@ Hi 👋 My name is João Coelho
 
 * 💻 **Proficiency**: Skilled in various programming languages, including Python, JavaScript, C, Java, Haskell and more.
 
-* 📚 **Current Focus**: Learning Elixir and Rust.
+* 📚 **Current Focus**: Elixir and Rust.
 
 * 🌟 **About Me**: Passionate about coding since introduction, continuously exploring new languages and paradigms. Enthusiastic about pushing boundaries and tackling challenging projects.
 
