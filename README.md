@@ -7,7 +7,7 @@ Hi 👋 My name is João Coelho
 
 * 📚 **Current Focus**: Elixir and Phoenix Framework.
 
-* 🌟 **About Me**: Passionate about coding since introduction, continuously exploring new languages and paradigms. Enthusiastic about pushing boundaries and tackling challenging projects.
+* 🌟 **About Me**: I love video games and anything computer-related. Now, I find myself in software engineering, trying to learn more about AI!
 
 **Contact me:**
 
@@ -28,7 +28,9 @@ Hi 👋 My name is João Coelho
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=JoaoCoelho2003&show_icons=true&theme=dark"/>
+  <img src="https://streak-stats.demolab.com/?user=JoaoCoelho2003&theme=dark" />
 </div>
+
 
 ## :snake: Contributions
 
