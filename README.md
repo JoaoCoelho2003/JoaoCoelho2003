@@ -1,61 +1,50 @@
-# Hi 👋 I'm João Coelho
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=First-year+Master's+Student;Software+Engineer;AI+Enthusiast&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Introduction">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&height=100&lines=%3C+JO%C3%83O+COELHO+%2F%3E;%3E+SYSTEM+ONLINE" alt="João Coelho | System Online" />
 </div>
 
-## 🎓 About Me
-
-- 📚 First-year master's student at the University of Minho, Braga, Portugal
-- 💻 Proficient in Python, JavaScript, C, Java, Haskell, and more
-- 🌟 Currently focusing on Elixir and Phoenix Framework
-- 🎮 Passionate about video games and all things computer-related
-- 🤖 Exploring the fascinating world of AI in software engineering
-
-## 📫 Let's Connect
-
-<div align="center">
-  <a href="mailto:jhcoelho03@gmail.com" style="text-decoration: none; margin: 5px;">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-coelho-3a465b266" target="_blank" style="text-decoration: none; margin: 5px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://joaocoelho.xyz" target="_blank" style="text-decoration: none; margin: 5px;">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
+ <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JoaoCoelho2003&style=flat-square&color=00FF41" alt="Profile views"/>
 </div>
 
-## 🏆 Skills
+<div style="border: 1px solid #00FF41; border-radius: 5px; padding: 10px; margin: 20px 0; background-color: rgba(0, 0, 0, 0.8);">
+  <h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" />
+    <span style="color: #00FF41; font-family: 'Courier New', monospace;">About Me</span>
+  </h2>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,elixir,html,css,tailwind,c,java,rust,cpp,mysql,mongodb,postgres,haskell&perline=5" alt="Skills" />
+  ```bash
+  > cd ./about
+  
+  🔹 NAME: "João Coelho"
+  🔹 STATUS: "First-year Master's Student | Software Engineer"
+  🔹 LOCATION: "University of Minho, Braga, Portugal"
+  🔹 FOCUS: "Elixir and Phoenix Framework"
+  🔹 INTERESTS: "AI, Video Games, Computer Science"
+  ```
 </div>
 
-<details>
-<summary>🌟 Featured Skills</summary>
-<br>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></td>
-      <td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></td>
-      <td align="center"><img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir"/></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/></td>
-      <td align="center"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></td>
-      <td align="center"><img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell"/></td>
-    </tr>
-  </table>
+<div style="border: 1px solid #00FF41; border-radius: 5px; padding: 10px; margin: 20px 0; background-color: rgba(0, 0, 0, 0.8);">
+  <h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" />
+    <span style="color: #00FF41; font-family: 'Courier New', monospace;">SKILLS</span>
+  </h2>
+  
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=py,js,ts,elixir,html,css,tailwind,c,java,rust,cpp,mysql,mongodb,postgres,haskell&perline=5" alt="Skills" />
+  </div>
 </div>
-</details>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoCoelho2003&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=JoaoCoelho2003&theme=dark" alt="GitHub Streak" />
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin: 20px 0;">
+  <div style="border: 1px solid #00FF41; border-radius: 5px; padding: 10px; background-color: rgba(0, 0, 0, 0.8); grid-column: span 2;">
+    <h2>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> 
+      <span style="color: #00FF41; font-family: 'Courier New', monospace;">Github Stats</span>
+    </h2>
+    <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+      <img src="https://github-readme-stats.vercel.app/api?username=JoaoCoelho2003&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00DD3B" width="48%" />
+      <img src="https://streak-stats.demolab.com/?user=JoaoCoelho2003&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00DD3B&sideNums=00DD3B&currStreakLabel=00FF41&sideLabels=00FF41&dates=00DD3B" width="48%" />
+    </div>
+  </div>
 </div>
 
 ## 🌐 Check Out My Website
@@ -95,7 +84,18 @@
 
 ![snake gif](https://github.com/JoaoCoelho2003/JoaoCoelho2003/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JoaoCoelho2003&style=flat-square&color=blue" alt="Profile views"/>
-</div>
+## 📫 Let's Connect
+  <br>
+  <div align="center">
+    <a href="mailto:jhcoelho03@gmail.com" style="text-decoration: none; margin: 5px;">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=0D1117&borderColor=00FF41" alt="Gmail" width="160" height="50" />
+    </a>
+    <a href="https://www.linkedin.com/in/jo%C3%A3o-coelho-3a465b266" target="_blank" style="text-decoration: none; margin: 5px;">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=0D1117&borderColor=00FF41" alt="LinkedIn" width="160" height="50" />
+    </a>
+    <a href="https://joaocoelho.xyz" target="_blank" style="text-decoration: none; margin: 5px;">
+      <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&color=0D1117&borderColor=00FF41" alt="Website" width="160" height="50" />
+    </a>
+  </div>
+  <br>
 
