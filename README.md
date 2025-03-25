@@ -12,86 +12,46 @@
 
 <hr>
 
-
-<div style="color: #00FF41; font-family: 'Courier New', monospace;">
-  <h2 style="color: #00FF41; border-bottom: none;">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" />
-    About Me
-  </h2>
-
-  <pre style="color: #00FF41; background: none; border: none; padding: 0; font-family: 'Courier New', monospace;">
-  > cd ./about
-  
-  🧠 NAME: "João Coelho"
-  ⚡ STATUS: "First-year Master's Student | Software Engineer"
-  🌐 LOCATION: "University of Minho, Braga, Portugal"
-  💻 FOCUS: "Elixir and Phoenix Framework"
-  🤖 INTERESTS: "AI, Video Games, Computer Science"
-  </pre>
-</div>
-
-<div style="border: 1px solid #00FF41; border-radius: 5px; padding: 10px; margin: 20px 0; background-color: rgba(0, 0, 0, 0.8);">
-  <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" />
-    <span style="color: #00FF41; font-family: 'Courier New', monospace;">SKILLS</span>
-  </h2>
-  
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,elixir,html,css,tailwind,c,java,rust,cpp,mysql,mongodb,postgres,haskell&perline=5" alt="Skills" />
-  </div>
-</div>
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin: 20px 0;">
-  <div style="border: 1px solid #00FF41; border-radius: 5px; padding: 10px; background-color: rgba(0, 0, 0, 0.8); grid-column: span 2;">
-    <h2>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> 
-      <span style="color: #00FF41; font-family: 'Courier New', monospace;">Github Stats</span>
-    </h2>
-    <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-      <img src="https://github-readme-stats.vercel.app/api?username=JoaoCoelho2003&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00DD3B" width="48%" />
-      <img src="https://streak-stats.demolab.com/?user=JoaoCoelho2003&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00DD3B&sideNums=00DD3B&currStreakLabel=00FF41&sideLabels=00FF41&dates=00DD3B" width="48%" />
-    </div>
-  </div>
-</div>
-
-## 🌐 Check Out My Website
-
 <div align="center">
-  <a href="https://joaocoelho.xyz" target="_blank" style="text-decoration: none;">
-    <div style="
-      display: inline-block;
-      background: linear-gradient(45deg, #12c2e9, #c471ed, #f64f59);
-      border-radius: 10px;
-      padding: 10px;
-      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
-      transition: all 0.3s ease;
-      margin: 20px 0;
-    ">
-      <img src="https://github.com/user-attachments/assets/6a88ebf8-9856-4ff1-a56c-94f62196231f" alt="Website Preview" style="
-        width: 100%;
-        max-width: 500px;
-        border-radius: 8px;
-        transition: transform 0.3s ease;
-      "/>
-      <div style="
-        background-color: rgba(255, 255, 255, 0.9);
-        padding: 15px;
-        border-radius: 0 0 8px 8px;
-        text-align: center;
-        font-weight: bold;
-        color: #333;
-      ">
-        🚀 Explore My Digital World
-      </div>
-    </div>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=24&duration=1000&pause=1000&repeat=false&color=00FF41&center=true&vCenter=true&width=600&height=60&lines=About+Me" alt="About Me Typing SVG" />
   </a>
 </div>
 
-## :snake: Contributions
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&duration=700&pause=100&color=00FF41&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=180&lines=%F0%9F%A7%A0+NAME%3A+%22Jo%C3%A3o+Coelho%22;%E2%9A%A1+STATUS%3A+%22First-year+Master's+Student+%7C+Software+Engineer%22;%F0%9F%8C%90+LOCATION%3A+%22University+of+Minho%2C+Braga%2C+Portugal%22;%F0%9F%92%BB+FOCUS%3A+%22Elixir+and+Phoenix+Framework%22;%F0%9F%A4%96+INTERESTS%3A+%22AI%2C+Video+Games%2C+Computer+Science%22" alt="About Me Info Typing SVG" />
+  </a>
+</div>
 
-![snake gif](https://github.com/JoaoCoelho2003/JoaoCoelho2003/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
+<hr>
 
-## 📫 Let's Connect
+
+| [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=300&lines=Languages)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=300&lines=Frameworks)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=300&lines=Tools)](https://git.io/typing-svg) |
+| ----- | ---- | ---- |
+| <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg" title="Elixir" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/></div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" title="Phoenix" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js" width="40" height="40"/></div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" height="40"/></div> |
+| <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/></div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40"/></div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" title="Docker" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" title="Bun" width="40" height="40"/></div> |
+| <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title="HTML5" width="40" height="40"/></div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40"/></div> |<div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VsCode" width="40" height="40"/></div>|
+
+
+
+<hr>
+
+<div style="display: flex; flex-direction: column; gap: 20px; margin: 20px 0;">
+  <div style="border: 1px solid #00FF41; border-radius: 5px; padding: 10px; background-color: rgba(0, 0, 0, 0.8);">
+    <img src="https://github-readme-stats.vercel.app/api?username=JoaoCoelho2003&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00DD3B" style="width: 100%;" />
+  </div>
+  
+  <div style="border: 1px solid #00FF41; border-radius: 5px; padding: 10px; background-color: rgba(0, 0, 0, 0.8);">
+    <img src="https://streak-stats.demolab.com/?user=JoaoCoelho2003&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00DD3B&sideNums=00DD3B&currStreakLabel=00FF41&sideLabels=00FF41&dates=00DD3B" style="width: 100%;" />
+  </div>
+</div>
+
+
+
+
+<hr>
+
   <br>
   <div align="center">
     <a href="mailto:jhcoelho03@gmail.com" style="text-decoration: none; margin: 5px;">
