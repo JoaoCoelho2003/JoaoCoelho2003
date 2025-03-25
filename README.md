@@ -60,7 +60,7 @@
     <a href="https://www.linkedin.com/in/jo%C3%A3o-coelho-3a465b266" target="_blank" style="text-decoration: none; margin: 5px;">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=0D1117&borderColor=00FF41" alt="LinkedIn" width="160" height="50" />
     </a>
-    <a href="https://joaocoelho.xyz" target="_blank" style="text-decoration: none; margin: 5px;">
+    <a href="https://joaocoelho.dev" target="_blank" style="text-decoration: none; margin: 5px;">
       <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&color=0D1117&borderColor=00FF41" alt="Website" width="160" height="50" />
     </a>
   </div>
