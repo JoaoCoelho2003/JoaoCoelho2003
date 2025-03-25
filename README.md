@@ -2,25 +2,32 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&height=100&lines=%3C+JO%C3%83O+COELHO+%2F%3E;%3E+SYSTEM+ONLINE" alt="João Coelho | System Online" />
 </div>
 
- <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JoaoCoelho2003&style=flat-square&color=00FF41" alt="Profile views"/>
+<hr>
+
+<div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=JoaoCoelho2003&theme=matrix&title=-Stars)](https://github.com/ryo-ma/github-profile-trophy)
+  
 </div>
 
-<div style="border: 1px solid #00FF41; border-radius: 5px; padding: 10px; margin: 20px 0; background-color: rgba(0, 0, 0, 0.8);">
-  <h2>
+<hr>
+
+
+<div style="color: #00FF41; font-family: 'Courier New', monospace;">
+  <h2 style="color: #00FF41; border-bottom: none;">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" />
-    <span style="color: #00FF41; font-family: 'Courier New', monospace;">About Me</span>
+    About Me
   </h2>
 
-  ```bash
+  <pre style="color: #00FF41; background: none; border: none; padding: 0; font-family: 'Courier New', monospace;">
   > cd ./about
   
-  🔹 NAME: "João Coelho"
-  🔹 STATUS: "First-year Master's Student | Software Engineer"
-  🔹 LOCATION: "University of Minho, Braga, Portugal"
-  🔹 FOCUS: "Elixir and Phoenix Framework"
-  🔹 INTERESTS: "AI, Video Games, Computer Science"
-  ```
+  🧠 NAME: "João Coelho"
+  ⚡ STATUS: "First-year Master's Student | Software Engineer"
+  🌐 LOCATION: "University of Minho, Braga, Portugal"
+  💻 FOCUS: "Elixir and Phoenix Framework"
+  🤖 INTERESTS: "AI, Video Games, Computer Science"
+  </pre>
 </div>
 
 <div style="border: 1px solid #00FF41; border-radius: 5px; padding: 10px; margin: 20px 0; background-color: rgba(0, 0, 0, 0.8);">
