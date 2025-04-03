@@ -41,10 +41,6 @@
   <div style="border: 1px solid #00FF41; border-radius: 5px; padding: 10px; background-color: rgba(0, 0, 0, 0.8);">
     <img src="https://github-readme-stats.vercel.app/api?username=JoaoCoelho2003&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00DD3B" style="width: 100%;" />
   </div>
-  
-  <div style="border: 1px solid #00FF41; border-radius: 5px; padding: 10px; background-color: rgba(0, 0, 0, 0.8);">
-    <img src="https://streak-stats.demolab.com/?user=JoaoCoelho2003&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00DD3B&sideNums=00DD3B&currStreakLabel=00FF41&sideLabels=00FF41&dates=00DD3B" style="width: 100%;" />
-  </div>
 </div>
 
 
@@ -52,17 +48,11 @@
 
 <hr>
 
-  <br>
-  <div align="center">
-    <a href="mailto:jhcoelho03@gmail.com" style="text-decoration: none; margin: 5px;">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=0D1117&borderColor=00FF41" alt="Gmail" width="160" height="50" />
-    </a>
-    <a href="https://www.linkedin.com/in/jo%C3%A3o-coelho-3a465b266" target="_blank" style="text-decoration: none; margin: 5px;">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=0D1117&borderColor=00FF41" alt="LinkedIn" width="160" height="50" />
-    </a>
-    <a href="https://joaocoelho.dev" target="_blank" style="text-decoration: none; margin: 5px;">
-      <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&color=0D1117&borderColor=00FF41" alt="Website" width="160" height="50" />
-    </a>
-  </div>
-  <br>
+<div align="center">
+  
+[![joaocoelho.dev](https://img.shields.io/badge/joaocoelho.dev-000000?style=for-the-badge)](https://joaocoelho.dev)
+[![Gmail](https://img.shields.io/badge/Email-41454a?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:me@joaocoelho.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/joaocoelho03)
+
+</div>
 
