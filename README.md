@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=JoaoCoelho2003&theme=matrix&title=-Stars)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=JoaoCoelho2003&theme=matrix&title=-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
 
