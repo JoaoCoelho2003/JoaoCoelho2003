@@ -20,7 +20,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&duration=700&pause=100&color=00FF41&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=180&lines=%F0%9F%A7%A0+NAME%3A+Jo%C3%A3o+Coelho;%E2%9A%A1+STATUS%3A+First-year+Master's+Student+%7C+Software+Engineerr;%F0%9F%8C%90+LOCATION%3A+University+of+Minho%2C+Braga%2C+Portugal;%F0%9F%92%BB+FOCUS%3A+Elixir+and+Phoenix+Framework;%F0%9F%A4%96+INTERESTS%3A+AI%2C+Video+Games%2C+Music" alt="About Me Info Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&duration=700&pause=100&color=00FF41&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=180&lines=NAME%3A+Jo%C3%A3o+Coelho;STATUS%3A+First-year+Master's+Student+%7C+Software+Engineer;LOCATION%3A+University+of+Minho%2C+Braga%2C+Portugal;FOCUS%3A+Elixir+and+Phoenix+Framework;INTERESTS%3A+AI%2C+Video+Games%2C+Music" alt="About Me Info Typing SVG" />
   </a>
 </div>
 
