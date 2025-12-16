@@ -5,14 +5,6 @@
 <hr>
 
 <div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=JoaoCoelho2003&theme=matrix&title=-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
-
-<hr>
-
-<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=24&duration=1000&pause=1000&repeat=false&color=00FF41&center=true&vCenter=true&width=600&height=60&lines=About+Me" alt="About Me Typing SVG" />
   </a>
